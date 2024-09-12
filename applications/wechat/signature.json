@@ -34,6 +34,10 @@
                     {
                       "item": "*.cmbimg.com",
                       "description": ""
+                    },
+                    {
+                      "item": "*.cmb.com",
+                      "description": "招商银行官网链接"
                     }
                   ]
                 }
