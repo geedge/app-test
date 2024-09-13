@@ -1,0 +1,71 @@
+{
+    "name":"义乌购",
+    "longName":"义乌购",
+    "developer":"浙江义乌购电子商务有限公司",
+    "website":"https://m.yiwugou.com",
+    "packageName":{
+        "android":"com.yiwugou.yiwukan",
+        "ios":"com.yiwugou.yiwugoucompany"
+    },
+    "properties":{
+        "category":"business-systems",
+        "subcategory":"general-business",
+        "content":"unknown",
+        "parentApp":"",
+        "risk":1
+    },
+    "surrogates": [
+        {
+          "name": "surrogate-1",
+          "description": "",
+          "signatures": [
+            {
+              "name": "signature-陕西社会保险-1",
+              "description": "",
+              "conditions": [
+                {
+                  "attributeName": "common.server_fqdn",
+                  "attributeType": "string",
+                  "negate_option": false,
+                  "description": "",
+                  "items": [
+                    {
+                      "item": "$gl.yiwugo.com",
+                      "description": "浙江义乌购电子商务有限公司"
+                    },
+                    {
+                      "item": "$enapp.yiwugo.com",
+                      "description": "浙江义乌购电子商务有限公司"
+                    },
+                    {
+                      "item": "$h.yiwugo.com",
+                      "description": "浙江义乌购电子商务有限公司"
+                    },
+                    {
+                      "item": "$app.yiwugo.com",
+                      "description": "浙江义乌购电子商务有限公司"
+                    },
+                    {
+                      "item": "$user.yiwugo.com",
+                      "description": "浙江义乌购电子商务有限公司"
+                    },
+                    {
+                      "item": "$wap.yiwugo.com",
+                      "description": "浙江义乌购电子商务有限公司"
+                    },
+                    {
+                      "item": "$img1.yiwugou.com",
+                      "description": "浙江义乌购电子商务有限公司"
+                    },
+                    {
+                      "item": "$ywgimg.yiwugo.com",
+                      "description": "浙江义乌购电子商务有限公司"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+    ]
+}
