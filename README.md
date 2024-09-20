@@ -6,11 +6,11 @@ applications目录存放app相关内容，每新增一个application，在applic
     ├─tiktok
     │      app.json   // 记录application属性及特征
     │      README.md  // 帮助文档
-    │      logo.png
+    │      icon.png   // 尺寸： 512*512 px， 大小不超过2MB
     ├─wechat
     │      app.json
     │      README.md
-    │      logo.png
+    │      icon.png
 ```
 app.json 内容模版如下
 ```
