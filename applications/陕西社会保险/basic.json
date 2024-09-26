@@ -1,0 +1,17 @@
+{
+    "name":"陕西社会保险",
+    "longName":"陕西社会保险",
+    "developer":"陕西省社会保障局",
+    "website":"http://www.pansky.com.cn/",
+    "packageName":{
+        "android":"cn.com.pansky.sxzgyl",
+        "ios":"cn.com.pansky.sxzgyl"
+    },
+    "properties":{
+        "category":"business-systems",
+        "subcategory":"general-business",
+        "content":"unknown",
+        "parentApp":"",
+        "risk":1
+    }
+}
