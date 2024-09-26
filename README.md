@@ -2,6 +2,7 @@
 applications目录存放app相关内容，每新增一个application，在applications目录下创建application同名目录。
 目录结构如下：
 ```
+同时修改测试
 └─applications
     ├─tiktok
     │      app.json   // 记录application属性及特征
