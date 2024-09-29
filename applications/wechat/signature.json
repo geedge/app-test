@@ -2,6 +2,7 @@
     "name":"wechat",
     "longName":"wechat",
     "properties":{
+      
         "category":"bussines"
     },
     "surrogates": [
