@@ -1,1 +1,9 @@
-{'key':'val'}
+
+{
+    "$schema": "https://typedoc.org/schema.json",
+    "name":"abc",
+    "validation":true,
+    "emit": "both",
+    "basePath": "/test",
+    "exclude": ["abc"]
+}
