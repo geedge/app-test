@@ -1,10 +1,4 @@
 {
-    "name":"wechat",
-    "longName":"wechat",
-    "properties":{
-      
-        "category":"bussines"
-    },
     "surrogates": [
         {
           "name": "405_招商银行_fqdn_20240809",
