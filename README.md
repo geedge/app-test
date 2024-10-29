@@ -1,5 +1,10 @@
 # app-test
 
-abc
+public static void main
+
+===abc
 
 test
+
+
+exit
