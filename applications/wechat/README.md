@@ -8,3 +8,15 @@
 该版本主要更新如下：
 
 修复了一些已知问题。
+
+Installing OpenSearch using RPM Package Manager (RPM) simplifies the process considerably compared to the Tarball method. Several technical considerations, such as the installation path, location of configuration files, and creation of a service managed by systemd, as examples, are handled automatically by the package manager.
+
+Generally speaking, installing OpenSearch from the RPM distribution can be broken down into a few steps:
+
+Download and install OpenSearch.
+Install manually from an RPM package or from a YUM repository.
+(Optional) Test OpenSearch.
+Confirm that OpenSearch is able to run before you apply any custom configuration.
+This can be done without any security (no password, no certificates) or with a demo security configuration that can be applied by a packaged script.
+Configure OpenSearch for your environment.
+Apply basic settings to OpenSearch and start using it in your environment.
