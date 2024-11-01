@@ -5,41 +5,6 @@
         "category":"bussines"
     },
     "surrogates": [
-        {
-          "name": "405_招商银行_fqdn_20240809",
-          "description": "",
-          "signatures": [
-            {
-              "name": "405_招商银行_fqdn_20240809",
-              "description": "",
-              "conditions": [
-                {
-                  "attributeName": "common.server_fqdn",
-                  "attributeType": "string",
-                  "negate_option": false,
-                  "description": "",
-                  "items": [
-                    {
-                      "item": "$cmbchina.com",
-                      "description": ""
-                    },
-                    {
-                      "item": "*.cmbchina.com",
-                      "description": ""
-                    },
-                    {
-                      "item": "$cmbimg.com",
-                      "description": ""
-                    },
-                    {
-                      "item": "*.cmbimg.com",
-                      "description": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
+
     ]
 }
