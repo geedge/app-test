@@ -6,11 +6,11 @@
     },
     "surrogates": [
         {
-          "name": "405_招商银行_fqdn_20240809",
+          "name": "wechat",
           "description": "",
           "signatures": [
             {
-              "name": "405_招商银行_fqdn_20240809",
+              "name": "wechat",
               "description": "",
               "conditions": [
                 {
@@ -20,19 +20,7 @@
                   "description": "",
                   "items": [
                     {
-                      "item": "$cmbchina.com",
-                      "description": ""
-                    },
-                    {
-                      "item": "*.cmbchina.com",
-                      "description": ""
-                    },
-                    {
-                      "item": "$cmbimg.com",
-                      "description": ""
-                    },
-                    {
-                      "item": "*.cmbimg.com",
+                      "item": "wechat.com",
                       "description": ""
                     }
                   ]
