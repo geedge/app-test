@@ -1,18 +1,21 @@
-{
-    "name":"wechat",
-    "longName":"wechat",
-    "properties":{
-        "category":"bussines"
+[
+    {
+        "id": "93b15868950034d1400652c7a0380cdc43023975",
+        "shortId": "93b15868",
+        "createdAt": 1730107391000,
+        "title": "as d",
+        "message": "as d",
+        "parentIds": [
+            "bfb3b430e5df8d636aefbba35acf3aed6844cca2"
+        ],
+        "authorName": "admin",
+        "authorEmail": "asw@geedgenetworks.com",
+        "authoredDate": 1730107391000,
+        "committerName": "admin",
+        "committerEmail": "asw@geedgenetworks.com",
+        "committedDate": 1730107391000
     }
-1
-        1
-                1
+]
 
-                        1
-                                1
-                                        0
-                                                0
-                                                        0
-                                                                0
-                                                                        0
-}
+页面合并操作
+
