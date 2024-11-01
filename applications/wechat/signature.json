@@ -3,31 +3,10 @@
     "longName":"wechat",
     "properties":{
         "category":"bussines"
-    },
-    "surrogates": [
-        {
-          "name": "wechat",
-          "description": "",
-          "signatures": [
-            {
-              "name": "wechat",
-              "description": "",
-              "conditions": [
-                {
-                  "attributeName": "common.server_fqdn",
-                  "attributeType": "string",
-                  "negate_option": false,
-                  "description": "",
-                  "items": [
-                    {
-                      "item": "wechat.com",
-                      "description": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-    ]
+    }
+2
+2
+2
+2
+m2 的合并过来
 }
