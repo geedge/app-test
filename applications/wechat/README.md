@@ -26,3 +26,5 @@ sudo yum install opensearch-2.17.1-linux-arm64.rpm
 
 ## Install the arm64 package using rpm.
 sudo rpm -ivh opensearch-2.17.1-linux-arm64.rpm
+
+## test1
