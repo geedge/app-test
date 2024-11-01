@@ -10,8 +10,12 @@ sudo env OPENSEARCH_INITIAL_ADMIN_PASSWORD=<custom-admin-password> rpm -ivh open
 ## Install the arm64 package using yum.
 sudo env OPENSEARCH_INITIAL_ADMIN_PASSWORD=<custom-admin-password> yum install opensearch-2.17.1-linux-arm64.rpm
 
-## Install the arm64 package using rpm.
-sudo env OPENSEARCH_INITIAL_ADMIN_PASSWORD=<custom-admin-password> rpm -ivh opensearch-2.17.1-linux-arm64.rpm
+## E46B50683A96499886A7BE07C339EF84
+## E46B50683A96499886A7BE07C339EF84
+## E46B50683A96499886A7BE07C339EF84
+## E46B50683A96499886A7BE07C339EF84
+## E46B50683A96499886A7BE07C339EF84
+SSWORD=<custom-admin-password> rpm -ivh opensearch-2.17.1-linux-arm64.rpm
 
 # Use the following command for OpenSearch versions 2.11 and earlier:
 
