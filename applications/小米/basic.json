@@ -1,0 +1,18 @@
+{
+    "id": "df76d5ce-0b94-4ed6-89f5-c663f49e9fac",
+    "name": "小米",
+    "longName": "小米",
+    "developer": "",
+    "website": "",
+    "packageName": {
+        "android": "",
+        "ios": ""
+    },
+    "properties": {
+        "category": "",
+        "subcategory": "",
+        "content": "unknown",
+        "parentApp": "",
+        "risk": 1
+    }
+}
