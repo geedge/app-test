@@ -12,6 +12,9 @@ regular expressions
 numeric types
 object
 array
+1
+1
+1
 boolean
 null
 Generic keywords
@@ -25,6 +28,9 @@ Applying Subschemas Conditionally
 Declaring a Dialect
 Structuring a complex schema
 For implementers
+2
+2
+2
 Common Interfaces across Implementations
 clipboard icon
 Specification
