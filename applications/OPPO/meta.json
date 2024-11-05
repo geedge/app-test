@@ -1,0 +1,18 @@
+{
+    "id": "9cbf3883-f85b-46b9-891b-4b57fd05f96b",
+    "name": "OPPO",
+    "longName": "OPPO",
+    "developer": "",
+    "website": "",
+    "packageName": {
+        "android": "",
+        "ios": ""
+    },
+    "properties": {
+        "category": "",
+        "subcategory": "",
+        "content": "unknown",
+        "parentApp": "",
+        "risk": 1
+    }
+}
