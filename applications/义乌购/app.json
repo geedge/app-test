@@ -4,10 +4,13 @@
   "longName": "77",
   "developer": "",
   "website": "",
+<<<<<<< applications/义乌购/app.json
   "packageName": {
     "android": "1",
     "ios": ""
   },
+======
+>>>>>>> applications/义乌购/app.json
   "properties": {
     "category": "",
     "subcategory": "",
